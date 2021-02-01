@@ -1,7 +1,7 @@
-# 🧬 Source code of bbq.codes
+# 🧬 bbq.codes Kaynak kodu.
 
-A simple website for beginners.
+Yeni başlayanlar ve örnek almak isteyenler için basit ve sade bir websitesi.
 
-## Screenshot from bbq.codes
+## 📷 Ekran Görüntüsü
 
 <img src="https://barbecue.is-pretty.cool/7KcWVRJ.png">
