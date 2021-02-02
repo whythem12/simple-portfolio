@@ -5,4 +5,9 @@ Sorunuz/Sıkıntınız olursa GitHub profilimdeki bağlantılardan bana ulaşabi
 
 ## 📷 Ekran Görüntüsü
 
-<img src="https://barbecue.is-pretty.cool/7KcWVRJ.png">
+### 💻 Bilgisayar Görünümü
+<img src="https://barbecue.is-pretty.cool/9wxixem.png">
+
+### 📱 Telefon Görünümü
+
+<img src="https://barbecue.is-pretty.cool/4XnyPak.png">
