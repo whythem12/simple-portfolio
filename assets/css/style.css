@@ -16,7 +16,6 @@ body {
 .avatar {
     width: 300px;
     border-radius: 100%;
-    float:left;
 }
 
 .profile {
@@ -60,15 +59,20 @@ body {
     z-index: -1;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 991px) {
     .texts {
+      font-size:12px !important;
       align-items: center;
       text-align:center;
       width: 100%;
     }
     .avatar {
-        margin-left: 19%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
-        
+    .btn-dark {
+        margin:3px;
+    }
   }
-  
+ 
