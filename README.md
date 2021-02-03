@@ -11,3 +11,5 @@ Sorunuz/Sıkıntınız olursa GitHub profilimdeki bağlantılardan bana ulaşabi
 ### 📱 Telefon Görünümü
 
 <img src="https://barbecue.is-pretty.cool/4XnyPak.png">
+
+## https://github.com/barbecue tarafından yapılmıştır iznim olmadan veya adım geçirilmeden paylaşmayın.
