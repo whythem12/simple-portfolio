@@ -1,15 +1,11 @@
-# 🧬 bbq.codes Kaynak kodu.
+# 🧬 A simple portfolio for beginners
 
-Yeni başlayanlar ve örnek almak isteyenler için basit ve sade bir websitesi.<br>
-Sorunuz/Sıkıntınız olursa GitHub profilimdeki bağlantılardan bana ulaşabilirsiniz.
+<a href="https://simple-portfolio-barbecue.netlify.app/" target="_blank">Live Demo</a>
 
-## 📷 Ekran Görüntüsü
+## 📷 Screenshots
 
-### 💻 Bilgisayar Görünümü
+### 💻 PC
 <img src="https://barbecue.is-pretty.cool/9wxixem.png">
 
-### 📱 Telefon Görünümü
-
+### 📱 Phone
 <img src="https://barbecue.is-pretty.cool/4XnyPak.png">
-
-## https://github.com/barbecue tarafından yapılmıştır iznim olmadan veya adım geçirilmeden paylaşmayın.
